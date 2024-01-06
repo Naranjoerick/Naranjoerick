@@ -3,15 +3,15 @@
 
 <h2>🚀 Skills:</h2>
 <ul>
-  <li><b>Languages:</b> Java, JavaScript, Python, C++, SQL</li>
-  <li><b>Web Development:</b> HTML, CSS, React, Angular</li>
-  <li><b>Database Management:</b> MySQL, PostgreSQL, MongoDB</li>
+  <li><b>Programming:</b> Java, JavaScript, Python, HTML, PHP, C++, SQL</li>
+  <li><b>Frameworks/Libraries:</b> .NET, Angular, React</li>
+  <li><b>Databases:</b> MySQL, PostgreSQL, MongoDB</li>
   <li><b>Operating Systems:</b> Linux, Windows</li>
-  <li><b>Tools:</b> Git, Visual Studio Code, JetBrains IDEs</li>
+  <li><b>Applications:</b> Microsoft Word, Excel, PowerPoint</li>
+  <li><b>Web Design:</b> User experience, functionality, security</li>
   <li><b>Problem Solving:</b> Technical troubleshooting, analysis</li>
   <li><b>Communication:</b> Conveying technical information to diverse audiences</li>
 </ul>
-
 <h2>👨‍💻 Featured Projects:</h2>
 
 <h3>Data Analysis and Visualization:</h3>
