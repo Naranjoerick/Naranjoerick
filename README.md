@@ -14,7 +14,7 @@
 </ul>
 
 <h3>Software Development:</h3>
-<p>I've also worked on various software development projects. Here are a few examples:</p>
+<p>I worked on various software development projects. Here are a few examples:</p>
 <ul>
   <li><a href="https://github.com/your-github-username/Online-Bookstore-Management">Online Bookstore Management System</a>: Designed and developed a comprehensive online bookstore system using C# and ASP.NET.</li>
   <li><a href="https://github.com/your-github-username/Student-Grade-Management">Student Grade Management System</a>: Created a web-based grade management system using PHP, HTML, CSS, and SQL.</li>
