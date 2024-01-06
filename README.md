@@ -33,4 +33,4 @@
   <li>Phone: (346) 907-9508</li>
 </ul>
 
-<p>Feel free to explore my repositories and reach out if you have any questions or collaboration ideas. I'm always eager to learn and contribute to exciting projects!</p>
+
