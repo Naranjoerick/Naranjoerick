@@ -32,7 +32,7 @@
 
 <h2>📫 Connect with Me:</h2>
 <ul>
-  <li>LinkedIn: <a href="https://www.linkedin.com/in/your-linkedin-profile">linkedin.com/in/your-linkedin-profile</a></li>
+  <li>LinkedIn: <a href="www.linkedin.com/in/ericknaranjo">linkedin.com/in/your-linkedin-profile</a></li>
   <li>Email: naranjoerick001@gmail.com</li>
   <li>Phone: (346) 907-9508</li>
 </ul>
