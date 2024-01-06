@@ -12,10 +12,6 @@
   <li><b>Problem Solving:</b> Technical troubleshooting, analysis</li>
   <li><b>Communication:</b> Conveying technical information to diverse audiences</li>
 </ul>
-<h2>👨‍💻 Featured Projects:</h2>
-
-<h3>Data Analysis and Visualization:</h3>
-<p>As a Data Analyst at PrecisePersonnel, I've been working on projects that involve data analysis and visualization to optimize warehouse operations. Some highlights include:</p>
 
 <h3>Software Development:</h3>
 <p>I've also worked on various software development projects. Here are a few examples:</p>
