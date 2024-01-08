@@ -3,7 +3,7 @@
 
 <h2>🚀 Skills:</h2>
 <ul>
-  <li><b>Programming:</b> Java, JavaScript, Python, HTML, PHP, C++, SQL</li>
+  <li><b>Programming:</b> Java, JavaScript, Python, HTML, PHP, C#, SQL</li>
   <li><b>Frameworks/Libraries:</b> .NET, Angular, React</li>
   <li><b>Databases:</b> MySQL, PostgreSQL, MongoDB</li>
   <li><b>Operating Systems:</b> Linux, Windows</li>
